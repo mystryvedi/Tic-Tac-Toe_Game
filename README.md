@@ -43,7 +43,7 @@ Here is a preview of the game interface :
 
 ## Credits
 
-This project was developed by [Your Name] as part of [Course Name] offered by [Institution Name]. 
+This project was developed by [Gyapti Trivedi] .
 
 ## License
 
@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Feedback and Contributions
 
-If you have any feedback or suggestions for this project, please feel free to [contact me](mailto:youremail@example.com) or submit a pull request. I welcome any contributions or improvements to the project.
+If you have any feedback or suggestions for this project, please feel free to [contact me](mailto:gyaptitrivedi20004@gmail.com) or submit a pull request. I welcome any contributions or improvements to the project.
