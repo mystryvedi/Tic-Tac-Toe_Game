@@ -43,7 +43,7 @@ Here is a preview of the game interface :
 
 ## Credits
 
-This project was developed by [Gyapti Trivedi] .
+This project was developed by Gyapti Trivedi.
 
 ## License
 
